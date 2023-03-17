@@ -4,7 +4,7 @@
 > Link : https://k1j7tg.sse.codesandbox.io/
 
 ## 🕰 개발기간
-~ 
+~ 2022.06.28
 
 ## ⚙️ 개발 환경
 ```React Js```
