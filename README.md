@@ -19,4 +19,5 @@
 ![캡처2](https://user-images.githubusercontent.com/76803855/177265775-e405cecb-c191-445c-9ab2-3f67f33984be.png)
 
 > GIF
+
 ![KakaoTalk_20220628_041645139](https://user-images.githubusercontent.com/76803855/177265796-0983cb56-9f49-4624-bc85-8c584b9e9a70.gif)
